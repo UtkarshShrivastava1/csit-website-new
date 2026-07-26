@@ -167,13 +167,13 @@ function GalleryForm() {
     className="mt-1 block w-full rounded-md border-gray-900 shadow-md focus:border-[#0d173b] focus:ring-[#0d173b] sm:text-sm !p-4 text-black"
   >
     <option value="">Select Category</option>
-    <option value="Institute">Institute</option>
+    <option value="Infrastructure">Infrastructure</option>
     <option value="Departments">Departments</option>
     <option value="Initiatives">Initiatives</option>
     <option value="T & P Cell">T & P Cell</option>
-    <option value="Student Affairs">Student Affairs</option>
-    <option value="Library">Library</option>
+    <option value="Student Clubs">Student Clubs</option>
     <option value="Facilities">Facilities</option>
+    <option value="R&D">R&D</option>
     <option value="Alumni">Alumni</option>
     <option value="Media Coverage">Media Coverage</option>
   </select>

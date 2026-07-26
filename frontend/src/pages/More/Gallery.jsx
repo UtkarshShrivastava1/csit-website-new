@@ -16,7 +16,7 @@ const Gallery = () => {
     "T & P Cell",
     "Student Clubs",
     "Facilities",
-    "R & D",
+    "R&D",
     "Alumni",
     "Media Coverage",
   ];
